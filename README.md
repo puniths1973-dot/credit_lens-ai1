@@ -15,7 +15,8 @@ along with the code
 ---
 
 ## 🌟 Live Demo & Presentation
-* **Live Website Prototype:** [View Deployed App](https://<your-github-username>.github.io/credit-lens-ai/) *(Update with your GitHub Pages link)*
+* **Live Website Prototype:** [View Deployed App]
+* 
 * **Project Presentation:** The pitch deck and documentation PPT file are included in this repository.
 
 ---
